@@ -1,0 +1,23 @@
+.Details{
+    width:auto;
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 5%;
+    border-color: black;
+    padding: 50px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.ToDoS{
+    border-radius: 10px;
+}
+.ToDo{
+    border-radius: 10px;
+}
